@@ -38,11 +38,11 @@ He/Him
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhamnofaldi&show_icons=true&theme=radical" alt="Ilham's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilhamnof&show_icons=true&theme=radical" alt="Ilham's GitHub stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamnofaldi&theme=dark" alt="Ilham's GitHub streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamnof&theme=dark" alt="Ilham's GitHub streak">
 </p>
 
 <p align="center">
