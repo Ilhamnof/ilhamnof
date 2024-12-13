@@ -37,6 +37,19 @@ He/Him
 
 ---
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+<!-- <h4> _generated with [Platane/snk](https://platane.me/snk/)_</h4> -->
+</div>
+<br>
+<div align="left">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhamnof&theme=github-compact&radius=16" height="auto" alt="by ilhamnofaldi"/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilhamnof&show_icons=true&theme=radical" alt="Ilham's GitHub stats">
 </p>
